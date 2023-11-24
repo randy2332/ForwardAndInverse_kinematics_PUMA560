@@ -64,4 +64,4 @@ theta3 is out of range!
  -134.8839 -200.0041  165.2995  -33.7594  -27.3089 -123.5269
 ```
 
-To get more informations, please see report **Robotics_Project1_312512061.pdf.**  We include the mathematical derivation.# Robotic_project1
+To get more informations, please see report **Robotics_Project1_312512061.pdf.**  We include the mathematical derivation.
